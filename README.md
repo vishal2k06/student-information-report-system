@@ -25,7 +25,7 @@ The final Excel report includes:
 
 ### 1. Clone the repository
 
-  - git clone https://github.com/yourusername/student-information-report-system.git
+  - git clone https://github.com/vishal2k06/student-information-report-system.git
   -  cd student-information-report-system
     
 ### 2. Install dependencies
